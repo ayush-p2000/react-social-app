@@ -1,5 +1,5 @@
 import React from 'react';
-import "./navbar.css"
+import "./navbar.css";
 import {Search, Person, Chat, Notifications} from "@mui/icons-material"
 
 function Navbar() {
